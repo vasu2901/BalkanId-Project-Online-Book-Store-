@@ -1,0 +1,11 @@
+1. Add Book -Admin D
+2. UpdateStock -Admin D
+3. Add to Cart D 
+4. View Cart D
+6. BuyBook D
+7. RemoveFromCart D
+8. SetReview D  
+9. MyPurchase D
+10. AllPurchase - Admin - D
+11. User Home D
+12. AdminHome D
